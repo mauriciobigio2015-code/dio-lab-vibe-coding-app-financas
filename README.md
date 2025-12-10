@@ -52,8 +52,10 @@ Saída:
 
 **- O que funcionou bem?**
 Tudo funcionou muito bem
+
 **- O que não funcionou como o esperado?**
 Nada
+
 **- O que aprendeu sobre conversar com IAs?**
 Expansão de ideias e conceitos
 
